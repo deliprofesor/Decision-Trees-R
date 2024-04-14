@@ -4,14 +4,14 @@ This repository contains code for building and evaluating models using Decision 
 
 This code involves a study using Decision Trees and Random Forest models in the R programming language. The "diabetes.csv" dataset is used, and various modeling and evaluation steps are performed on this dataset.
 
-Loading the required packages
-Loading and examining the dataset
-Checking for missing values
-Analyzing the distribution of the target variable
-Preparing the training and test datasets
-Creating and evaluating Decision Tree models
-Building and evaluating the Random Forest model
-Tuning and evaluating model hyperparameters
+1) Loading the required packages
+2) Loading and examining the dataset
+3) Checking for missing values
+4) Analyzing the distribution of the target variable
+5) Preparing the training and test datasets
+6) Creating and evaluating Decision Tree models
+7) Building and evaluating the Random Forest model
+8) Tuning and evaluating model hyperparameters
 The purpose of this code is to try different machine learning models to predict the diabetes status in the dataset and select the model that performs best.
 Decision Trees are fundamental algorithms used in data mining and machine learning for classification and regression tasks. These trees learn relationships between features and target variables in a dataset, creating a tree structure that represents decisions and relationships between each feature and the target variable. This tree structure is typically built using yes/no questions, expressing decisions in a tree-like format.
 
@@ -23,14 +23,14 @@ CART (Classification and Regression Trees) is a decision tree algorithm used for
 
 Bu kod, R programlama dili kullanılarak Karar Ağaçları (Decision Trees) ve Rastgele Orman (Random Forest) modelleriyle ilgili bir çalışmayı içeriyor. Veri seti olarak "diabetes.csv" dosyası kullanılmış ve bu veri seti üzerinde çeşitli modelleme ve değerlendirme adımları gerçekleştirilmiş.
 
-Gerekli paketlerin yüklenmesi
-Veri setinin yüklenmesi ve incelenmesi
-Eksik değerlerin kontrol edilmesi
-Hedef değişkenin dağılımının incelenmesi
-Eğitim ve test veri setlerinin hazırlanması
-Karar Ağacı (Decision Tree) modellerinin oluşturulması ve değerlendirilmesi
-Rastgele Orman (Random Forest) modelinin oluşturulması ve değerlendirilmesi
-Model hiperparametrelerinin ayarlanması ve değerlendirilmesi adımlarını içerir.
+1) Gerekli paketlerin yüklenmesi
+2) Veri setinin yüklenmesi ve incelenmesi
+3) Eksik değerlerin kontrol edilmesi
+4) Hedef değişkenin dağılımının incelenmesi
+5) Eğitim ve test veri setlerinin hazırlanması
+6) Karar Ağacı (Decision Tree) modellerinin oluşturulması ve değerlendirilmesi
+7) Rastgele Orman (Random Forest) modelinin oluşturulması ve değerlendirilmesi
+8) Model hiperparametrelerinin ayarlanması ve değerlendirilmesi adımlarını içerir.
 Bu kodların amacı, veri setindeki diyabet durumunu tahmin etmek için farklı makine öğrenimi modellerini denemek ve en iyi performansı gösteren modeli seçmektir.
 Bu depo, R programlama dili kullanılarak Karar Ağaçları (Decision Trees) ve özellikle de CART (Classification and Regression Trees) algoritmasıyla model oluşturma ve değerlendirme kodlarını içerir. Karar Ağaçları, sınıflandırma ve regresyon görevlerinde kullanılan güçlü makine öğrenimi algoritmalarıdır. CART ise özel bir Karar Ağacı algoritmasıdır ve ağacı oluşturmak için ikili bölümler kullanır.
 
