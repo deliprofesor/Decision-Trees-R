@@ -1,5 +1,7 @@
 # Decision-Trees-R
 
+![diabetes](https://github.com/user-attachments/assets/8902ebd9-7b43-49c2-b2fb-b50f5207859f)
+
 This repository contains code for building and evaluating models using Decision Trees, specifically focusing on the CART (Classification and Regression Trees) algorithm, using the R programming language. Decision Trees are powerful machine learning algorithms used for classification and regression tasks. CART is a specific type of Decision Tree algorithm that uses binary splits to construct the tree.
 
 This code involves a study using Decision Trees and Random Forest models in the R programming language. The "diabetes.csv" dataset is used, and various modeling and evaluation steps are performed on this dataset.
